@@ -21,6 +21,10 @@ int main()
     system("cls");
     mainAppFat12((char*)filepath);
     return 0;
+    for(;;)
+    {
+        printf("thay diep dep zai");
+    }
 }
 /*******************************************************************************
 *End of file
